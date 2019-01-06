@@ -7,24 +7,31 @@
 Temas:
 
 1. ReactJS
-2. Términos
-    2.1 JSX
-    2.2 Component
-    2.3 State
-    2.4 Props
-3. Component Lifecycles - <a href="http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/"> Graph </a>
-4. Installing ReactJS
+2. Installing ReactJS
+3. JSX
+4. Component
+5. Component Lifecycles - <a href="http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/"> Graph </a>
+6. State
+7. Props
+8. Events
 
 ## Links
 
-<a href="https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b">npx</a>
-<a href="https://www.youtube.com/watch?v=sBws8MSXN7A&t=2s"> Traversy Crash Course </a>
-<a href="link"> Graph </a>
-<a href="link"> Graph </a>
-<a href="link"> Graph </a>
-<a href="link"> Graph </a>
-<a href="link"> Graph </a>
-<a href="link"> Graph </a>
+<a href="https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b">npx</a> <br />
+
+<a href="https://www.youtube.com/watch?v=sBws8MSXN7A&t=2s"> Traversy Crash Course </a> <br />
+
+<a href="https://medium.com/@charpeni/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think-3b3551c440b1"> Difference between class properties and function properties </a> <br />
+
+<a href="link"> Graph </a> <br />
+
+<a href="link"> Graph </a> <br />
+
+<a href="link"> Graph </a> <br />
+
+<a href="link"> Graph </a> <br />
+
+<a href="link"> Graph </a> <br />
 
 ### `npm run build`
 
