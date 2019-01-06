@@ -10,28 +10,28 @@ Temas:
 2. Installing ReactJS
 3. JSX
 4. Component
-5. Component Lifecycles - <a href="http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/"> Graph </a>
+5. Component Lifecycles - <a target="_blank" href="http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/"> Graph </a>
 6. State
 7. Props
 8. Events
 
 ## Links
 
-<a href="https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b">npx</a> <br />
+<a target="_blank" href="https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b">npx</a> <br />
 
-<a href="https://www.youtube.com/watch?v=sBws8MSXN7A&t=2s"> Traversy Crash Course </a> <br />
+<a target="_blank" href="https://reactjs.org/docs/hello-world.html"> Official docs </a> <br />
 
-<a href="https://medium.com/@charpeni/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think-3b3551c440b1"> Difference between class properties and function properties </a> <br />
+<a target="_blank" href="https://medium.com/@charpeni/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think-3b3551c440b1"> Difference between class properties and function properties </a> <br />
 
-<a href="link"> Graph </a> <br />
+<a target="_blank" href="https://www.youtube.com/watch?v=sBws8MSXN7A&t=2s"> Traversy Crash Course </a> <br />
 
-<a href="link"> Graph </a> <br />
+<a target="_blank" href="link"> Graph </a> <br />
 
-<a href="link"> Graph </a> <br />
+<a target="_blank" href="link"> Graph </a> <br />
 
-<a href="link"> Graph </a> <br />
+<a target="_blank" href="link"> Graph </a> <br />
 
-<a href="link"> Graph </a> <br />
+<a target="_blank" href="link"> Graph </a> <br />
 
 ### `npm run build`
 
