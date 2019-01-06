@@ -15,6 +15,10 @@ Temas:
 7. Props
 8. Events
 
+## Install
+
+### `npm i`
+
 ## Links
 
 <a target="_blank" href="https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b">npx</a> <br />
@@ -25,30 +29,10 @@ Temas:
 
 <a target="_blank" href="https://www.youtube.com/watch?v=sBws8MSXN7A&t=2s"> Traversy Crash Course </a> <br />
 
-<a target="_blank" href="link"> Graph </a> <br />
+<a target="_blank" href="https://github.com/getify/You-Dont-Know-JS"> You Don't Know JS </a> <br />
 
-<a target="_blank" href="link"> Graph </a> <br />
+<a target="_blank" href="https://codeburst.io/whats-new-in-es6-or-es2015-480edf104489"> JS For React </a> <br />
 
-<a target="_blank" href="link"> Graph </a> <br />
+<a target="_blank" href="https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248"> Useful tools </a> <br />
 
-<a target="_blank" href="link"> Graph </a> <br />
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<a target="_blank" href="https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d"> Web Dev Roadmap </a> <br />
